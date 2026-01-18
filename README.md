@@ -1,7 +1,7 @@
 # Narain | Cybersecurity Analyst
 
 ## 🧭 About Me
-I'm an entry-level **Information Security Analyst** with a strong passion for cybersecurity and a solid academic foundation — holding both a **B.S.** and **M.S.** in *Cybersecurity and Information Assurance* from Western Governors University. I'm driven by curiosity and a desire to defend against evolving digital threats, and I particularly enjoy **threat hunting**, **detection engineering**, **incident response**, **vulnerability management**, and **digital forensics (DFIR)**.
+I'm an  **Information Security Analyst** with a strong passion for cybersecurity and a solid academic foundation — holding both a **B.S.** and **M.S.** in *Cybersecurity and Information Assurance* from Western Governors University. I'm driven by curiosity and a desire to defend against evolving digital threats, and I particularly enjoy **threat hunting**, **detection engineering**, **incident response**, **vulnerability management**, and **digital forensics (DFIR)**.
 
 ---
 
