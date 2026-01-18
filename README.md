@@ -25,7 +25,9 @@ I'm an entry-level **Information Security Analyst** with a strong passion for cy
 
 ## 🎓 Education
 **Western Governors University**  
-*Master of Science and Bachelor of Science in Cybersecurity and Information Assurance (2025)*
+*Master of Science: Cybersecurity and Information Assurance (2025)*
+*Bachelor of Science: Cybersecurity and Information Assurance (2024)*
+
 
 ---
 
@@ -59,14 +61,11 @@ I'm an entry-level **Information Security Analyst** with a strong passion for cy
 
 ---
 
-## 🔗 Connect
-[LinkedIn: Dylan Narain](https://www.linkedin.com/in/dylan-narain-b9a02a234)
 
----
+
 
 ## 📁 Portfolio Goals
 This GitHub repository serves as a living portfolio showcasing:
 - Cybersecurity projects and write-ups  
-- Personal research and detections engineering work  
 - Hands-on labs and red/blue team simulations  
 - Continuous skill development and experimentation
