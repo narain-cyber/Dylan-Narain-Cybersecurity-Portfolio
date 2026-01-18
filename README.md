@@ -26,6 +26,7 @@ I'm an  **Information Security Analyst** with a strong passion for cybersecurity
 ## 🎓 Education
 **Western Governors University**  
 *Master of Science: Cybersecurity and Information Assurance (2025)*
+
 *Bachelor of Science: Cybersecurity and Information Assurance (2024)*
 
 
